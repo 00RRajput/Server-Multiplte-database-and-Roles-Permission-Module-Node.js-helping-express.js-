@@ -1,0 +1,122 @@
+{
+    "dashboard": {
+        "view": "read_dash"
+    },
+    "user_master": {
+        "edit": "edit_user",
+        "delete": "delete_user",
+        "read": "read_user",
+        "create": "create_user"
+    },
+    "role_master": {
+        "edit": "edit_role",
+        "delete": "delete_role",
+        "read": "read_role",
+        "create": "create_role"
+    },
+    "department_master": {
+        "edit": "edit_department",
+        "delete": "delete_department",
+        "read": "read_department",
+        "create": "create_department"
+    },
+    "category_master": {
+        "edit": "edit_category",
+        "delete": "delete_category",
+        "read": "read_category",
+        "create": "create_category"
+    },
+    "role_permission": {
+        "read": "read_permission",
+        "create": "create_permission"
+    },
+    "yard_permission": {
+        "edit": "edit_yard",
+        "delete": "delete_yard",
+        "read": "read_yard",
+        "create": "create_yard"
+    },
+    "product_permission": {
+        "edit": "edit_product",
+        "delete": "delete_product",
+        "read": "read_product",
+        "create": "create_product"
+    },
+    "prestages_permission": {
+        "edit": "edit_prestages",
+        "delete": "delete_prestages",
+        "read": "read_prestages",
+        "create": "create_prestages"
+    },
+    "inbound_permission": {
+        "edit": "edit_inbound",
+        "delete": "delete_inbound",
+        "read": "read_inbound",
+        "create": "create_inbound"
+    },
+    "dispatchcustomer_permission": {
+        "edit": "edit_dispatchcustomer",
+        "delete": "delete_dispatchcustomer",
+        "read": "read_dispatchcustomer",
+        "create": "create_dispatchcustomer"
+    },
+    "customer_permission": {
+        "edit": "edit_customer",
+        "delete": "delete_customer",
+        "read": "read_customer",
+        "create": "create_customer"
+    },
+    "grn_permission": {
+        "edit": "edit_grn",
+        "delete": "delete_grn",
+        "read": "read_grn",
+        "create": "create_grn"
+    },
+    "customer_product_permission": {
+        "delete": "delete_customer_product",
+        "read": "read_customer_product",
+        "create": "create_customer_product"
+    },
+    "user_location_permission": {
+        "edit": "edit_user_location",
+        "delete": "delete_user_location",
+        "read": "read_user_location",
+        "create": "create_user_location"
+    },
+    "user_customer_permission": {
+        "delete": "delete_user_customer",
+        "read": "read_user_customer",
+        "create": "create_user_customer"
+    },
+    "super-admin-permissions": {
+        "dashboard": {
+            "view": "read_dash"
+        },
+        "configuration_permission": {
+            "read": "read_configuration",
+            "create": "create_configuration"
+        },
+        "admin_user_master": {
+            "edit": "edit_admin_user",
+            "delete": "delete_admin_user",
+            "read": "read_admin_user",
+            "create": "create_admin_user"
+        },
+        "location_master": {
+            "edit": "edit_admin_location",
+            "delete": "delete_admin_location",
+            "read": "read_admin_location",
+            "create": "create_admin_location"
+        },
+        "role_permission": {
+            "read": "read_permission",
+            "create": "create_permission"
+        },
+        "client_permission": {
+            "edit": "edit_client",
+            "delete": "delete_client",
+            "read": "read_client",
+            "create": "create_client"
+        }
+    }
+}

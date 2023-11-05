@@ -1,0 +1,65 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "logs/.187790bfca55e09c27e530bd47ac1f50c5556961-audit.json",
+    "files": [
+        {
+            "date": 1698053987648,
+            "name": "logs/common.log-2023-10-23.log",
+            "hash": "b7653c2ee93f16729852a90ef4595da9e9b093725da0f67352c9e384d29f1504"
+        },
+        {
+            "date": 1698220289784,
+            "name": "logs/common.log-2023-10-25.log",
+            "hash": "d3b2cf3a242af472f9d42b7edea34afd4322717039374a9ac8b16dc8bd70bc83"
+        },
+        {
+            "date": 1698296165178,
+            "name": "logs/common.log-2023-10-26.log",
+            "hash": "4e5308094fce8b349f407e88489370e6215da41856c4b1fdea8871f92b72d4cc"
+        },
+        {
+            "date": 1698383604489,
+            "name": "logs/common.log-2023-10-27.log",
+            "hash": "ac028c213784eaef697c7f56e301df880eee1ac4d0e71fa71a21268c6ead1fb4"
+        },
+        {
+            "date": 1698466947645,
+            "name": "logs/common.log-2023-10-28.log",
+            "hash": "4c026a8b9006154fae3a0477f3b9420c0eba526cdf03c584a59b00e33a031b88"
+        },
+        {
+            "date": 1698642193096,
+            "name": "logs/common.log-2023-10-30.log",
+            "hash": "2b909fedda5e982c839a6d42023eb12999781b34e9a90dbb8d1f649eb1a6d50e"
+        },
+        {
+            "date": 1698737728495,
+            "name": "logs/common.log-2023-10-31.log",
+            "hash": "3f9451082d8d2187b19739f0aaafcb730ca15e23bc0fcfd2793d6abe24730a22"
+        },
+        {
+            "date": 1698821714176,
+            "name": "logs/common.log-2023-11-01.log",
+            "hash": "9da40871cc879bac1c3701fbf59262dbe106fad85333e6aaeab8623455193bbe"
+        },
+        {
+            "date": 1698902524192,
+            "name": "logs/common.log-2023-11-02.log",
+            "hash": "3a0819bba5e43e09ab6d902e89d5ada51b91d1a80f6676122e54f150141c6652"
+        },
+        {
+            "date": 1698991785545,
+            "name": "logs/common.log-2023-11-03.log",
+            "hash": "ed1b3e589c6c8a6c24d675416cbf54e6b3c5e6b27cbd3ac3caaabff568c7e21f"
+        },
+        {
+            "date": 1699077376058,
+            "name": "logs/common.log-2023-11-04.log",
+            "hash": "8a731ce71c98c42e11c11e38dc001ed7d35388f72330e0fcb9fb9ea2cca4355b"
+        }
+    ],
+    "hashType": "sha256"
+}
